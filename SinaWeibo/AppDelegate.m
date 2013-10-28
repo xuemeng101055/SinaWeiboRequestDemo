@@ -4,7 +4,6 @@
 //
 //  Created by Stephy_xue on 13-9-25.
 //  Copyright (c) 2013年 Stephy_xue. All rights reserved.
-//  xue meng lao pang
 
 #import "AppDelegate.h"
 
